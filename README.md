@@ -11,7 +11,7 @@ ChatGPT
 Copilot
 PowerPoint
 🧠 Prompts
-ChatGPT：
+ChatGPT e COPilot：
 
 Ação	prompt
 título	me sugira 10 temas para um ebook sobre psicologia positiva
